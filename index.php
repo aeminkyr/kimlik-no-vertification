@@ -6,7 +6,7 @@
 </head>
 <body>
 	<nav class="navbar navbar-light bg-light">
-		<a class="navbar-brand" href="#">Turkey Republic Identity Verifier</a>
+		<a class="navbar-brand" href="#">Republic of Turkey Identity Verifier</a>
 	</nav>
 	<div class="container mt-2">
 		<div class="row">
